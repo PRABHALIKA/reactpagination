@@ -1,0 +1,13 @@
+.tabs{
+    text-align: right;
+    background: aliceblue;
+    line-height: 30px;
+}
+
+.tabs > a{
+    margin-right: 10px;
+    letter-spacing: 5px;
+}
+.content{
+    margin-bottom: 100px;
+}

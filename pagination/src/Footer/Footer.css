@@ -1,0 +1,9 @@
+.footer{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: yellow;
+}
